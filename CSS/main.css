@@ -55,6 +55,16 @@ header {
     border: solid;
     border-radius: 20px;
     border-color: #ffff;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.eng-text {
+    font-family: "Michroma", sans-serif;
+    font-size: 25px;
+    color: #ffff;
+    text-decoration: none;
 }
 
 .nav-bar {
