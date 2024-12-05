@@ -30,12 +30,16 @@ header {
     font-family: "Michroma", sans-serif;
     font-size: 80px;
     color: #ffff;
+    text-shadow: 2px 2px 20px rgba(111, 217, 217, 0.5);
+    font-weight: lighter;
 }
 
 .header-name-small {
     font-family: "Michroma", sans-serif;
     font-size: 50px;
     color: #ffff;
+    text-shadow: 2px 2px 20px rgba(111, 217, 217, 0.5);
+    font-weight: lighter;
 }
 
 .nav-eng-container {
@@ -65,6 +69,8 @@ header {
     font-size: 25px;
     color: #ffff;
     text-decoration: none;
+    text-shadow: 2px 2px 20px rgba(111, 217, 217, 0.5);
+    font-weight: bold;
 }
 
 .nav-bar {
@@ -84,4 +90,13 @@ header {
     font-size: 25px;
     color: #ffff;
     text-decoration: none;
+    text-shadow: 2px 2px 20px rgba(111, 217, 217, 0.5);
+    font-weight: bold;
 }
+
+.main-container {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
