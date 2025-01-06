@@ -109,7 +109,7 @@ header {
     flex-direction: column;
     display: flex;
     width: auto;
-    height: 624px;
+    height: 500px;
     justify-content: center;
     align-self: flex-end;
 }
@@ -158,22 +158,24 @@ header {
     align-items: center;
     width: 100%;
     height: 488px;
-    padding-top: 15px;
+    padding-left: 10px;
 }
 
 .image-info {
-    width: 225px;
-    height: 225px;
+    width: 150px;
+    height: 150px;
     border: none;
     border-radius: 10px;
+    padding-bottom: 20px;
+    margin-top: -90px;
 }
 
 .info-text-container {
     display: flex;
     width: 245px;
-    height: 233px;
+    height: 190px;
     border: solid;
-    border-radius: 50px;
+    border-radius: 20px;
     border-color: #ffff;
     background-color: rgba(0, 0, 0, 0.5);
 }
