@@ -207,6 +207,7 @@ header {
     font-family: "Anonymous Pro", sans-serif; ;
     font-weight: bold;
     font-size: 19px;
+    justify-content: center;
 }
 
 .info-text-container-small {
