@@ -185,3 +185,18 @@ header {
     font-size: 19px;
 }
 
+.info-text-container-small {
+    display: flex;
+    width: 245px;
+    height: 100px;
+    border: solid;
+    border-radius: 20px;
+    border-color: #ffff;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    color: #ffff;
+    font-family: "Anonymous Pro", sans-serif; ;
+    font-weight: bold;
+    font-size: 19px;
+}
+
