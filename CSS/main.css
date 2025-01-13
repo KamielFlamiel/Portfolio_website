@@ -113,15 +113,24 @@ header {
     width: auto;
     height: 500px;
     justify-content: center;
-    
+}
+
+.contents-container-contact {
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+    height: 500px;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 .header-container {
     display: flex;
-    width: auto;
+    width: 100%;
     height: 90px;
     justify-content: center;
     align-items: center;
+    margin-top: -50px;
 }
 
 .header-bar {
@@ -151,6 +160,7 @@ header {
     flex-direction: row;
     width: 100%;
     height: 488px;
+    margin-top: 50px;
 }
 
 .info-one-contact {
@@ -159,7 +169,7 @@ header {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 488px;
+    height: auto;
     padding-left: 10px;
 }
 
@@ -169,7 +179,7 @@ header {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 488px;
+    height: auto;
     padding-left: 10px;
 }
 
