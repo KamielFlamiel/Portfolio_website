@@ -11,12 +11,6 @@ body {
     background-size: cover;
 }
 
-@media only screen and (max-width: 600px) {
-    body {
-      
-    }
-  }
-
 header {
     display: flex;
     flex-direction: row;
